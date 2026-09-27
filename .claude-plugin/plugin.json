@@ -1,0 +1,6 @@
+{
+  "name": "harness",
+  "description": "Reglas de trabajo, flujo git y verificación para cualquier proyecto",
+  "version": "1.0.0",
+  "author": { "name": "Mauricio" }
+}
